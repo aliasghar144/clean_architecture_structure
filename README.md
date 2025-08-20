@@ -1,7 +1,7 @@
 # How To use
- mason init
- mason get
- mason make clean_architecture
+- mason init
+- mason get
+- mason make clean_architecture
 
 
 # clean_architecture
